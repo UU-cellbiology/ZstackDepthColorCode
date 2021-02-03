@@ -8,7 +8,7 @@ The plugin creates an output as Composite or RGB stack. So there is conversion t
 
 It is loosely based on [Temporal-Color Code](https://imagej.net/Temporal-Color_Code) macro (but does not create Z-projection) and it is rewritten version of Z_Code_Stack function from [FIJI Cookbook](https://github.com/fiji/cookbook).
 
-Generated colorcoded stacks can be visualized by different 3D renders ([3D Viewer](https://imagej.nih.gov/ij/plugins/3d-viewer/) or [3Dscript](https://bene51.github.io/3Dscript/) pligin).
+Generated colorcoded stacks can be visualized by different 3D renders ([3D Viewer](https://imagej.nih.gov/ij/plugins/3d-viewer/) or [3Dscript](https://bene51.github.io/3Dscript/) plugin).
 
 Example: EB comets (by Boris Shneyer), grayscale before: 
 
