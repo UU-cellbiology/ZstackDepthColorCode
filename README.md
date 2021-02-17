@@ -33,12 +33,12 @@ To install plugin in FIJI:
 
 To install plugin manually in ImageJ:
 
-* download and copy the [latest version of plugin](https://github.com/ekatrukha/ZstackDepthColorCode/blob/main/target/ZstackDepthColorCode_-0.0.1.jar?raw=true) 
+* download and copy the [latest version of plugin](https://github.com/ekatrukha/ZstackDepthColorCode/raw/main/target/ZstackDepthColorCode_-0.0.2.jar) 
 * plugin will appear in _Plugins->Stacks->Z-stack Depth Colorcode_ menu
 
 ## Updates history
-
-2021.01.11 First version.
+2021.02.17 (v.0.0.2) Added LUT image generation option. Fixed colors for inverted LUT and some window appearance.
+2021.01.11 (v.0.0.1) First version.
 
 ---
 Developed in [Cell Biology group](http://cellbiology.science.uu.nl/) of Utrecht University.  
