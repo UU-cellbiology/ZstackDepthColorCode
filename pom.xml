@@ -14,7 +14,7 @@
  
     <groupId>sc.fiji</groupId>
     <artifactId>ZstackDepthColorCode_</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
  
     <name>Z-stack Depth Colorcode</name>
     <description>plugin to color-code depth of z-stack</description>
