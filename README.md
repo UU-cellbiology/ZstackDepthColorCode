@@ -37,8 +37,9 @@ To install plugin manually in ImageJ:
 * plugin will appear in _Plugins->Stacks->Z-stack Depth Colorcode_ menu
 
 ## Updates history
-2021.02.17 (v.0.0.2) Added LUT image generation option. Fixed colors for inverted LUT and some window appearance.
-2021.01.11 (v.0.0.1) First version.
+2021.02.17 (v.0.0.2) Added LUT image generation option. Fixed colors for inverted LUT and some window appearance. 
+ 
+2021.01.11 (v.0.0.1) First version. 
 
 ---
 Developed in [Cell Biology group](http://cellbiology.science.uu.nl/) of Utrecht University.  
