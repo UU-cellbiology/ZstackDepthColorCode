@@ -48,7 +48,7 @@ and specify the parameters used.
 
 2) Alternatively, you can use Zenodo DOI for the link to the specific release:  
 
-> _Katrukha E. 2021, ZstackDepthColorCode plugin for ImageJ, vX.X.X, Zenodo, doi:zenodo.17027115   
+> _Katrukha E. 2021, ZstackDepthColorCode plugin for ImageJ, vX.X.X, Zenodo, doi:10.5281/zenodo.17027115_   
 
 
 
