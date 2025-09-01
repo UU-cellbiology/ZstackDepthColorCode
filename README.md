@@ -1,4 +1,6 @@
-# Z-stack Depth Color Code
+# Z-stack Depth Color Code   
+
+[![DOI](https://zenodo.org/badge/328708769.svg)](https://doi.org/10.5281/zenodo.17027115)   
 
 [ImageJ](https://imagej.nih.gov/ij/)/[FIJI](http://fiji.sc/) plugin to colorcode Z-stacks/hyperstacks (8-,16-,32 bit). Allows to uses available LUTs + invert them. 
 
@@ -33,8 +35,22 @@ To install plugin in FIJI:
 
 To install plugin manually in ImageJ:
 
-* download and copy the [latest version of plugin](https://github.com/ekatrukha/ZstackDepthColorCode/raw/main/target/ZstackDepthColorCode_-0.0.2.jar) 
+* download and copy the [latest version of jar plugin file](https://github.com/UU-cellbiology/ZstackDepthColorCode/releases) to the plugins folder of FIJI/ImageJ  
 * plugin will appear in _Plugins->Stacks->Z-stack Depth Colorcode_ menu
+
+## How to cite the plugin   
+
+1) You can cite it by providing a direct link to the code, pointing out the version, like this:   
+
+> "_visualization was made using ZstackDepthColorCode v.X.X.X plugin for FIJI (https://github.com/UU-cellbiology/ZstackDepthColorCode)._"
+
+and specify the parameters used.  
+
+2) Alternatively, you can use Zenodo DOI for the link to the specific release:  
+
+> _Katrukha E. 2021, ZstackDepthColorCode plugin for ImageJ, vX.X.X, Zenodo, doi:zenodo.17027115   
+
+
 
 ## Updates history
 2021.02.17 (v.0.0.2) Added LUT image generation option. Fixed colors for inverted LUT and some window appearance. 
