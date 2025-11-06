@@ -1,6 +1,6 @@
 # Z-stack Depth Color Code   
 
-[![DOI](https://zenodo.org/badge/328708769.svg)](https://doi.org/10.5281/zenodo.17027115)   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17027116.svg)](https://doi.org/10.5281/zenodo.17027116)   
 
 [ImageJ](https://imagej.nih.gov/ij/)/[FIJI](http://fiji.sc/) plugin to colorcode Z-stacks/hyperstacks (8-,16-,32 bit). Allows to uses available LUTs + invert them. 
 
